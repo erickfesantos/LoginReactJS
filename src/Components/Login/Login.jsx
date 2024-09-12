@@ -21,18 +21,18 @@ const Login = () => {
 
               <div className='relembrar-senha'>
                 <label><input type='checkbox' />Lembre me</label>
-                <a href='#' >Esqueceu sua senha?</a>
+                <a href='www.google.com'>Esqueceu sua senha?</a>
               </div>
 
               <button type='submit' >Login</button>
 
-              <div className='ou'><a>Ou</a></div>
+              <div className='ou'><p>Ou</p></div>
 
               <button type='submit' >Entre com Facebook</button>
 
 
               <div className='registro' > 
-                <p>Ainda não tem uma conta? <a href='#'>Cadastre-se</a></p>
+                <p>Ainda não tem uma conta? <a href='www.google.com'>Cadastre-se</a></p>
               </div>
               
 
